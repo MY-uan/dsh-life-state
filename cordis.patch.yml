@@ -1,0 +1,4 @@
+# dsh-life-state bundle patch：把本插件的 host 行插入 DSH 的 host 组合。
+- insert:
+    - id: dsh-life-state
+      name: dsh-life-state
