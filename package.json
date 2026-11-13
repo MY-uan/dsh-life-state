@@ -1,6 +1,6 @@
 {
   "name": "dsh-life-state",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "给 QQ Bot 会话注入「角色的一天」：惰性生成三餐/午睡/家务/小倒霉，让角色在主人不在时也在过日子。",
   "keywords": [
     "deepseek-harness",
